@@ -15,9 +15,7 @@ export function Home() {
 				If you see this green button... bootstrap is working
 			</a>
 			<p>
-				Made by{" "}
-				<a href="http://www.4geeksacademy.com">4Geeks Academy</a>, with
-				love!
+				<h1>Holaaa</h1>
 			</p>
 		</div>
 	);
