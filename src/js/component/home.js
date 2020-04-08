@@ -15,12 +15,8 @@ export function Home() {
 				If you see this green button... bootstrap is working
 			</a>
 			<p>
-<<<<<<< HEAD
 				<h1>Holaaa Bienve</h1>
-				<h1>Danny was here, ;)</h1>
-=======
-				<h1>Holaaa Bienve and Danny</h1>
->>>>>>> d8858de7f900cf54f466a2aef8a14be26f4de348
+				<h1>Danny was here</h1>
 			</p>
 		</div>
 	);
