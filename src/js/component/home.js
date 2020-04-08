@@ -16,6 +16,7 @@ export function Home() {
 			</a>
 			<p>
 				<h1>Holaaa Bienve</h1>
+				<h1>Danny was here, ;)</h1>
 			</p>
 		</div>
 	);
