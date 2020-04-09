@@ -25,6 +25,7 @@ export function Home() {
 					copy is available, but it may also be used to temporarily
 					replace copy in a process called{" "}
 				</p>
+				<cite>update 19:29 pm --danny</cite>
 			</p>
 		</div>
 	);
