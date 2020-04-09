@@ -17,7 +17,7 @@ export function Home() {
 			<p>
 				<h1>Holaaa Bienve</h1>
 				<h1>Danny was here</h1>
-				<p>
+				<p className="container">
 					n publishing and graphic design, Lorem ipsum is a
 					placeholder text commonly used to demonstrate the visual
 					form of a document or a typeface without relying on
